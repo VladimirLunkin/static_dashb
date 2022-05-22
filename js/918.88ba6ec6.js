@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkdashb_bmstu"]=self["webpackChunkdashb_bmstu"]||[]).push([[918],{7918:function(n,e,t){t.r(e),t.d(e,{default:function(){return i}});var o=t(3396);const s={class:"home"};function u(n,e,t,u,r,a){const f=(0,o.up)("event-info");return(0,o.wg)(),(0,o.iD)("div",s,[(0,o.Wm)(f,{"event-info":r.eventInfo},null,8,["event-info"])])}var r=t(6513),a={name:"HomeView",data(){return{eventInfo:{owner:"Эксплуатация АСОИУ",name:"Лаб 3"}}},components:{EventInfo:r.Z}},f=t(89);const c=(0,f.Z)(a,[["render",u]]);var i=c}}]);
+//# sourceMappingURL=918.88ba6ec6.js.map
